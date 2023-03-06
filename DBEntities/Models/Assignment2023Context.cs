@@ -17,9 +17,6 @@ public partial class Assignment2023Context : DbContext
 
     public virtual DbSet<Item> Items { get; set; }
 
-    protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        => optionsBuilder.UseSqlServer("Data Source=GHMDEVICEGLPEWO;Initial Catalog=Assignment2023;Integrated Security=True;Trusted_Connection=true;TrustServerCertificate=True");
-
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
         modelBuilder.Entity<Item>(entity =>
