@@ -11122,11 +11122,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\maratn\\Desktop\\MN\\Individual_Projects\\C#_ASP.NET_Core_API_Apps\\AssignmentV2\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\maratn\\Desktop\\MN\\Assignment\\Solution 2. .NET7 Web API + React.js\\Assignment Web API\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\maratn\\Desktop\\MN\\Individual_Projects\\C#_ASP.NET_Core_API_Apps\\AssignmentV2\\API\\API.csproj",
+      "projectPath": "C:\\Users\\maratn\\Desktop\\MN\\Assignment\\Solution 2. .NET7 Web API + React.js\\Assignment Web API\\API\\API.csproj",
       "packagesPath": "C:\\Users\\maratn\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\maratn\\Desktop\\MN\\Individual_Projects\\C#_ASP.NET_Core_API_Apps\\AssignmentV2\\API\\obj\\",
+      "outputPath": "C:\\Users\\maratn\\Desktop\\MN\\Assignment\\Solution 2. .NET7 Web API + React.js\\Assignment Web API\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\maratn\\AppData\\Roaming\\NuGet\\NuGet.Config",
